@@ -23,8 +23,8 @@ This bot creates a simulated political environment within your Discord server wh
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/probsJustin/discord_political_party_bot.git
-   cd discord_political_party_bot
+   git clone https://github.com/probsJustin/discord_democracy_bot.git
+   cd discord_democracy_bot
    ```
 
 2. Install dependencies:
@@ -86,4 +86,4 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 
 ## Contact
 
-For issues and feature requests, please use the [GitHub issue tracker](https://github.com/probsJustin/discord_political_party_bot/issues).
+For issues and feature requests, please use the [GitHub issue tracker](https://github.com/probsJustin/discord_democracy_bot/issues).
